@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264984297604",
+    "project_id": "amit-flutter-flavor",
+    "storage_bucket": "amit-flutter-flavor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264984297604:android:96ee4fefd196bcf5e002d1",
+        "android_client_info": {
+          "package_name": "com.amit.flutter_flavor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264984297604-h3ctfed1qaf5h6vaac0tf500cplpcjg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjmDIYKbVwrcp3SIf_NAIhBaqg5Zq9TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264984297604-h3ctfed1qaf5h6vaac0tf500cplpcjg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
